@@ -1,2 +1,3 @@
-# Mega-Mall-3D
-Created with react typescript zustand bootstrap5 Html5 css3
+# MegaMall 3D
+Run: `npm install && npm run dev`. Build: `npm run build` (relative base, HashRouter — GitHub Pages ready). Preview: `npm run preview`.
+All data is simulated demo data stored in LocalStorage (key `megamall3d`).
